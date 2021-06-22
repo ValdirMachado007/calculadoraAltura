@@ -1,0 +1,12 @@
+Segue a URL do Site: http://projetoaltura.medianewsonline.com/
+
+O código esta correto porem ao hospedar e começar a executar as funções do site, aparece essa mensagem no 
+console:
+
+"[Deprecation] getCurrentPosition() and watchPosition() no longer work on insecure origins. To use this feature, 
+you should consider switching your application to a secure origin, such as HTTPS. See https://goo.gl/rStTGz for 
+more details."
+
+Que pelo oque eu compreendi, esta dizendo que não pode executar certa função (getCurrentPosition()) pois 
+o meu site não é considerado seguro.
+Professor se tiver alguma sugestão sobre oque fazer nessa situação, por favor me avise!
